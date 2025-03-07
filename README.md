@@ -2,7 +2,7 @@
 - @ughitsmarshall
 - Undergraduate Student at Dartmouth College
 - CS Major || Linguistics & Eastern European Studies Minors
-- Can write code in Python, Java, C, JavaScript, SQL
+- Can write code in Python, Java, C, SQL, MongoDB
 - marshallcareymatthews@gmail.com
 
 <!---
